@@ -16,7 +16,7 @@ Make sure you have the following installed:
 - Composer
 - MySQL or any other supported database
 - Node.js & npm (for frontend assets, optional)
-- Laravel 10
+- Laravel 10 
 
 ## Installation Steps
 
