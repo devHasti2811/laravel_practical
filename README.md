@@ -62,6 +62,7 @@ php artisan storage:link
 ### 7. Serve the Application
 ```sh
 php artisan serve
+npm run dev
 ```
 Access the application at: `http://127.0.0.1:8000`
 
