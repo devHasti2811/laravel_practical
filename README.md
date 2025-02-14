@@ -22,8 +22,8 @@ Make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/laravel-crud.git
-cd laravel-crud
+git clone git@github.com:devHasti2811/laravel_practical.git
+cd laravel_practical
 ```
 
 ### 2. Install Dependencies
